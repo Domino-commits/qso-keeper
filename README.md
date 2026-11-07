@@ -1,3 +1,4 @@
+<img width="1167" height="1318" alt="Skærmbillede 2026-11-07 210920" src="https://github.com/user-attachments/assets/fbf0f023-c9d3-46b9-a345-1a5c75605881" />
 # QSO KEEPER BY OV6O
 
 Liste til Ring QSO'er for amatørradio. Én fil, ingen installation, virker uden internet.
